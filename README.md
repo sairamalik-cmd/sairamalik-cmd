@@ -29,8 +29,6 @@
 <img align="left" alt="Sairam's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=sairamalik-cmd&show_icons=true&theme=tokyonight&count_private=true" />
 <img align="right" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sairamalik-cmd&layout=compact&theme=tokyonight" />
 
-<small>Profile overview (left) and top languages (right).</small>
-
 ---
 
 ### 🚀 Featured Projects
