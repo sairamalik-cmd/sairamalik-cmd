@@ -117,6 +117,4 @@ Fun Facts: Bibliophile Always 📚 | Noob at video Games 🐣🎮
 
 I'm always open to collabs, open-source ideas, or a good coffee chat ☕
 
-![](https://komarev.com/ghpvc/?username=sairamalik-cmd&label=Profile%20Views&color=blue&style=flat)
-
 </div>
