@@ -96,7 +96,7 @@
 - **MiniShell** → https://github.com/sairamalik-cmd/MiniShell
 
 ---
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saira-Ahmed&layout=compact&langs_count=8&theme=dracula)
 ## 💬 Latest Post / Dynamic Note
 <!-- DYNAMIC:START -->
 #### 📅 Updated: 2026-01-20 00:00 UTC
