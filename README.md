@@ -21,59 +21,74 @@
 - Fun facts: Bibliophile always 📚 · Noob at video games 🐣🎮  
 
 ---
-
 ## 🧰 Tech Stack
 
-<div align="center">
-<div style="display:flex;flex-wrap:wrap;gap:12px;justify-content:center;max-width:720px;margin:auto;">
+<p align="center">
+<table align="center" cellspacing="12">
+  <tr>
+    <td align="center">
+      <a href="https://www.java.com/" title="Java">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="72" alt="Java"/><br>
+        Java
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://isocpp.org/" title="C++">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="72" alt="C++"/><br>
+        C++
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.python.org/" title="Python">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="72" alt="Python"/><br>
+        Python
+      </a>
+    </td>
+  </tr>
 
-<a href="https://www.java.com/" title="Java" style="--bg:#3b82f6;display:inline-flex;align-items:center;justify-content:center;background:linear-gradient(145deg,rgba(255,255,255,.2),var(--bg));border-radius:14px;padding:10px;width:64px;height:64px;box-shadow:0 10px 25px rgba(0,0,0,.35);">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="34"/>
-</a>
+  <tr>
+    <td align="center">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="72" alt="JavaScript"/><br>
+        JavaScript
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://reactjs.org/" title="React">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="72" alt="React"/><br>
+        React
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://nodejs.org/" title="Node.js">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="72" alt="Node.js"/><br>
+        Node.js
+      </a>
+    </td>
+  </tr>
 
-<a href="https://isocpp.org/" title="C++" style="--bg:#2563eb;display:inline-flex;align-items:center;justify-content:center;background:linear-gradient(145deg,rgba(255,255,255,.2),var(--bg));border-radius:14px;padding:10px;width:64px;height:64px;box-shadow:0 10px 25px rgba(0,0,0,.35);">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="34"/>
-</a>
-
-<a href="https://www.python.org/" title="Python" style="--bg:#ec4899;display:inline-flex;align-items:center;justify-content:center;background:linear-gradient(145deg,rgba(255,255,255,.2),var(--bg));border-radius:14px;padding:10px;width:64px;height:64px;box-shadow:0 10px 25px rgba(0,0,0,.35);">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="34"/>
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript" style="--bg:#f472b6;display:inline-flex;align-items:center;justify-content:center;background:linear-gradient(145deg,rgba(255,255,255,.25),var(--bg));border-radius:14px;padding:10px;width:64px;height:64px;box-shadow:0 10px 25px rgba(0,0,0,.25);">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="34"/>
-</a>
-
-<a href="https://reactjs.org/" title="React" style="--bg:#0f172a;display:inline-flex;align-items:center;justify-content:center;background:linear-gradient(145deg,rgba(255,255,255,.15),var(--bg));border-radius:14px;padding:10px;width:64px;height:64px;box-shadow:0 10px 25px rgba(0,0,0,.45);">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="34"/>
-</a>
-
-<a href="https://fastapi.tiangolo.com/" title="FastAPI" style="--bg:#3b82f6;display:inline-flex;align-items:center;justify-content:center;background:linear-gradient(145deg,rgba(255,255,255,.2),var(--bg));border-radius:14px;padding:10px;width:64px;height:64px;box-shadow:0 10px 25px rgba(0,0,0,.25);">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/fastapi.svg" width="30" style="filter:invert(1)"/>
-</a>
-
-<a href="https://nodejs.org/" title="Node.js" style="--bg:#ec4899;display:inline-flex;align-items:center;justify-content:center;background:linear-gradient(145deg,rgba(255,255,255,.2),var(--bg));border-radius:14px;padding:10px;width:64px;height:64px;box-shadow:0 10px 25px rgba(0,0,0,.25);">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="34"/>
-</a>
-
-<a href="https://www.postgresql.org/" title="PostgreSQL" style="--bg:#3b82f6;display:inline-flex;align-items:center;justify-content:center;background:linear-gradient(145deg,rgba(255,255,255,.2),var(--bg));border-radius:14px;padding:10px;width:64px;height:64px;box-shadow:0 10px 25px rgba(0,0,0,.25);">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="34"/>
-</a>
-
-<a href="https://www.mongodb.com/" title="MongoDB" style="--bg:#ec4899;display:inline-flex;align-items:center;justify-content:center;background:linear-gradient(145deg,rgba(255,255,255,.2),var(--bg));border-radius:14px;padding:10px;width:64px;height:64px;box-shadow:0 10px 25px rgba(0,0,0,.25);">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="32"/>
-</a>
-
-<a href="https://git-scm.com/" title="Git" style="--bg:#3b82f6;display:inline-flex;align-items:center;justify-content:center;background:linear-gradient(145deg,rgba(255,255,255,.2),var(--bg));border-radius:14px;padding:10px;width:64px;height:64px;box-shadow:0 10px 25px rgba(0,0,0,.25);">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="34"/>
-</a>
-
-
-<a href="https://www.kernel.org/" title="Linux" style="--bg:#3b82f6;display:inline-flex;align-items:center;justify-content:center;background:linear-gradient(145deg,rgba(255,255,255,.25),var(--bg));border-radius:14px;padding:10px;width:64px;height:64px;box-shadow:0 10px 25px rgba(0,0,0,.2);">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="30"/>
-</a>
-
-</div>
-</div>
+  <tr>
+    <td align="center">
+      <a href="https://www.postgresql.org/" title="PostgreSQL">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="72" alt="PostgreSQL"/><br>
+        PostgreSQL
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.mongodb.com/" title="MongoDB">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="72" alt="MongoDB"/><br>
+        MongoDB
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://git-scm.com/" title="Git">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="72" alt="Git"/><br>
+        Git
+      </a>
+    </td>
+  </tr>
+</table>
+</p>
 
 ---
 
@@ -95,6 +110,12 @@
 
 ---
 
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sairamalik-cmd&bg_color=00000000&color=3b82f6&line=ec4899&point=ec4899&hide_border=true" />
+</p>
+
 ## ⭐ GitHub Stats
 
 <p align="center">
@@ -102,17 +123,10 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sairamalik-cmd&theme=transparent&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=sairamalik-cmd&hide_border=true&background=transparent" />
 </p>
 
 ---
-
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sairamalik-cmd&bg_color=00000000&color=3b82f6&line=ec4899&point=ec4899&hide_border=true" />
-</p>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:ec4899&height=120&section=footer"/>
 
 Thanks for visiting — I'm always open to collabs, open-source ideas, or a good coffee chat ☕
