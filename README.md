@@ -94,6 +94,7 @@
 
 ## 🚀 Featured Projects
 - **MiniShell** → https://github.com/sairamalik-cmd/MiniShell
+- **NovelBank-MASMx86** → https://github.com/sairamalik-cmd/NovelBank-MASMx86
 
 ---
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saira-Ahmed&layout=compact&langs_count=8&theme=dracula)
