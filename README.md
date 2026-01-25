@@ -124,7 +124,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sairamalik-cmd&hide_border=true&background=transparent" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sairamalik-cmd" alt="github streak"/>
 </p>
 
 ---
