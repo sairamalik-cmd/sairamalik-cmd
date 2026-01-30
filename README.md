@@ -130,4 +130,4 @@
 ---
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:ec4899&height=120&section=footer"/>
 
-Thanks for visiting — I'm always open to collabs, open-source ideas, or a good coffee chat ☕
+Thanks for visiting my profile. I'm always open to collabs, open-source ideas, or a good coffee chat ☕
