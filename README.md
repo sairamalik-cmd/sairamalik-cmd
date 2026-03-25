@@ -97,7 +97,7 @@
 - **NovelBank-MASMx86** → https://github.com/sairamalik-cmd/NovelBank-MASMx86
 
 ---
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saira-Ahmed&layout=compact&langs_count=8&theme=dracula)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sairamalik-cmd&layout=compact&langs_count=8&theme=dracula)
 ## 💬 Latest Post / Dynamic Note
 <!-- DYNAMIC:START -->
 #### 📅 Updated: 2026-01-20 00:00 UTC
