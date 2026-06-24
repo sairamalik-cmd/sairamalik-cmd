@@ -27,26 +27,43 @@
 <table align="center" cellspacing="12">
   <tr>
     <td align="center">
-      <a href="https://www.java.com/" title="Java">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="72" alt="Java"/><br>
-        Java
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://isocpp.org/" title="C++">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="72" alt="C++"/><br>
-        C++
-      </a>
-    </td>
-    <td align="center">
       <a href="https://www.python.org/" title="Python">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="72" alt="Python"/><br>
         Python
       </a>
     </td>
+    <td align="center">
+      <a href="https://scikit-learn.org/" title="Scikit-learn">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="72" alt="Scikit-learn"/><br>
+        Scikit-learn
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.tensorflow.org/" title="TensorFlow">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="72" alt="TensorFlow"/><br>
+        TensorFlow
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://keras.io/" title="Keras">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" width="72" alt="Keras"/><br>
+        Keras
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://numpy.org/" title="NumPy">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="72" alt="NumPy"/><br>
+        NumPy
+      </a>
+    </td>
   </tr>
-
   <tr>
+    <td align="center">
+      <a href="https://pandas.pydata.org/" title="Pandas">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="72" alt="Pandas"/><br>
+        Pandas
+      </a>
+    </td>
     <td align="center">
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="72" alt="JavaScript"/><br>
@@ -65,15 +82,14 @@
         Node.js
       </a>
     </td>
-  </tr>
-
-  <tr>
     <td align="center">
-      <a href="https://www.postgresql.org/" title="PostgreSQL">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="72" alt="PostgreSQL"/><br>
-        PostgreSQL
+      <a href="https://expressjs.com/" title="Express.js">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="72" alt="Express.js"/><br>
+        Express.js
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://www.mongodb.com/" title="MongoDB">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="72" alt="MongoDB"/><br>
@@ -81,9 +97,27 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://git-scm.com/" title="Git">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="72" alt="Git"/><br>
-        Git
+      <a href="https://www.postgresql.org/" title="PostgreSQL">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="72" alt="PostgreSQL"/><br>
+        PostgreSQL
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://dart.dev/" title="Dart">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="72" alt="Dart"/><br>
+        Dart
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://flutter.dev/" title="Flutter">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="72" alt="Flutter"/><br>
+        Flutter
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://firebase.google.com/" title="Firebase">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="72" alt="Firebase"/><br>
+        Firebase
       </a>
     </td>
   </tr>
@@ -93,8 +127,10 @@
 ---
 
 ## 🚀 Featured Projects
-- **MiniShell** → https://github.com/sairamalik-cmd/MiniShell
-- **NovelBank-MASMx86** → https://github.com/sairamalik-cmd/NovelBank-MASMx86
+- **[Zameen.com House Price Predictor](https://github.com/sairamalik-cmd/Zameen.com_Scrapper)**
+- **[Makeup Class Manager](https://github.com/sairamalik-cmd/makeup-class-manager)**
+- **[MiniShell](https://github.com/sairamalik-cmd/MiniShell)**
+- **[NovelBank-MASMx86](https://github.com/sairamalik-cmd/NovelBank-MASMx86)**
 
 ---
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sairamalik-cmd&layout=compact&langs_count=10&theme=dracula)
