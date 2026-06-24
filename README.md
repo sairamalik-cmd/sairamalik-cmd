@@ -134,17 +134,6 @@
 
 ---
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sairamalik-cmd&layout=compact&langs_count=10&theme=dracula)
-## 💬 Latest Post / Dynamic Note
-<!-- DYNAMIC:START -->
-#### 📅 Updated: 2026-01-20 00:00 UTC
-<!-- DYNAMIC:END -->
-
----
-
-## 📫 Contact & Socials
-- Email: sairadotmalik@gmail.com  
-- LinkedIn: [Saira Ahmed](https://www.linkedin.com/in/saira-ahmed-malik)
-
 ---
 
 ## 📈 Activity Graph
@@ -163,6 +152,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sairamalik-cmd" alt="github streak"/>
 </p>
 
+## 📫 Contact & Socials
+- Email: sairadotmalik@gmail.com  
+- LinkedIn: [Saira Ahmed](https://www.linkedin.com/in/saira-ahmed-malik)
+  
 ---
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:ec4899&height=120&section=footer"/>
 
