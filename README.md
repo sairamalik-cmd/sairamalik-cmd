@@ -5,20 +5,20 @@
 ![Profile views](https://komarev.com/ghpvc/?username=sairamalik-cmd&color=blue)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3000&pause=500&color=EC4899&center=true&vCenter=true&width=650&lines=Building+delightful+web+apps;Shipping+fast+with+clean+UX;Automating+the+boring+stuff+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3000&pause=500&color=EC4899&center=true&vCenter=true&width=650&lines=AI%2FML+%7C+Full-Stack+%7C+Mobile;From+data+to+decisions+%F0%9F%A4%96;From+wireframe+to+deployment+%F0%9F%9A%80;Building+things+that+actually+matter" />
 </p>
 
-> Building delightful web apps, automation tools, and small AI experiments; focused on clean UX and shipping fast.
-
+> Software Engineer specializing in AI/ML and full-stack development; building intelligent systems that are as functional as they are impactful.
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:3b82f6,100:ec4899&height=3" />
 
 ---
 
 ## 🔭 About Me
-- Pronouns: she/her  
-- Location: Islamabad, Pakistan  
-- Currently: Building developer tools and automations; I love reducing repetitive work and making developer workflows smoother  
-- Fun facts: Bibliophile always 📚 · Noob at video games 🐣🎮  
+- 👩‍💻 Pronouns: she/her
+- 📍 Location: Islamabad, Pakistan
+- 🎓 Software Engineering student at COMSATS University Islamabad
+- 🔬 Currently exploring AI/ML research and building full-stack & mobile applications
+- 📚 Fun fact: Bibliophile always · Anime enthusiast 🎌
 
 ---
 ## 🧰 Tech Stack
