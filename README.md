@@ -1,6 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:ec4899&height=140&section=header&text=Welcome!&fontAlignY=35&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:ec4899&height=140&section=header&text=SAIRA_MALIK&fontAlignY=35&fontColor=ffffff"/>
 
-# Hi there 👋 I'm Saira Malik
+# Welcome to my profile
 
 ![Profile views](https://komarev.com/ghpvc/?username=sairamalik-cmd&color=blue)
 
